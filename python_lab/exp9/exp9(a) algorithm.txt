@@ -1,0 +1,21 @@
+Experiment 9a: Implement Numpy and Pandas Packages
+
+Algorithm:
+1. Start.
+2. Import the numpy package as np and the pandas package as pd.
+3. NumPy operations:
+   a. Create a NumPy array from a list using np.array().
+   b. Display the shape, size, and data type of the array.
+   c. Create special arrays using np.zeros(), np.ones(), np.arange(), np.linspace().
+   d. Perform arithmetic operations (+, -, *, /) on arrays.
+   e. Perform array indexing, slicing, and reshaping using reshape().
+   f. Compute statistical measures such as mean(), sum(), max(), min(), std().
+4. Pandas operations:
+   a. Create a Pandas Series from a list using pd.Series().
+   b. Create a Pandas DataFrame from a dictionary or list of lists using pd.DataFrame().
+   c. Display the DataFrame using head(), tail(), and info().
+   d. Access columns and rows using column names, loc[], and iloc[].
+   e. Add, modify, and delete columns in the DataFrame.
+   f. Perform basic statistical operations using describe(), mean(), sum().
+5. Display the results of each operation.
+6. Stop.

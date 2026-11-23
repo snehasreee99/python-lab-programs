@@ -1,0 +1,18 @@
+Experiment 2: Implement Control Flow Statements and Looping Statements in Python
+
+Algorithm:
+1. Start.
+2. Control Flow Statements:
+   a. Read a value from the user.
+   b. Use if statement to check a single condition and display a message.
+   c. Use if-else statement to check a condition and display one of two messages.
+   d. Use if-elif-else ladder to check multiple conditions and display the matching message.
+   e. Use nested if statements to check a condition within another condition.
+3. Looping Statements:
+   a. Use a for loop to iterate over a range of numbers / a sequence and display each element.
+   b. Use a while loop to repeat a block of statements until a condition becomes false.
+   c. Use break statement inside a loop to exit the loop when a condition is met.
+   d. Use continue statement inside a loop to skip the current iteration and continue with the next.
+   e. Use pass statement as a placeholder inside a loop or conditional block.
+4. Display the results of each control flow and loop construct.
+5. Stop.

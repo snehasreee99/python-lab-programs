@@ -1,0 +1,25 @@
+Experiment 7: Demonstrate Use of Object-Oriented Programming Concepts
+
+Algorithm:
+1. Start.
+2. Class and Object:
+   a. Define a class with attributes and methods.
+   b. Create an object (instance) of the class.
+   c. Access attributes and call methods using the object.
+3. Constructor:
+   a. Define the __init__() method to initialize object attributes automatically when an object is created.
+4. Encapsulation:
+   a. Define private/protected attributes using underscore conventions (_attr, __attr).
+   b. Provide getter and setter methods to access and modify private attributes.
+5. Inheritance:
+   a. Define a base (parent) class with common attributes and methods.
+   b. Define a derived (child) class that inherits from the base class.
+   c. Create an object of the derived class and access inherited and new members.
+6. Polymorphism:
+   a. Define a method with the same name in the base class and the derived class (method overriding).
+   b. Call the method using objects of both classes and observe different behavior.
+7. Abstraction:
+   a. Define an abstract class using the abc module with abstract methods.
+   b. Implement the abstract methods in a derived class.
+8. Display the output of each OOP concept demonstrated.
+9. Stop.

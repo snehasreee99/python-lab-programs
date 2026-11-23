@@ -1,0 +1,19 @@
+Experiment 5: Demonstrate Tuple & Related Functions in Python
+
+Algorithm:
+1. Start.
+2. Create a tuple with a set of elements.
+3. Display the tuple and find its length using len().
+4. Access elements using indexing and slicing.
+5. Attempt to modify an element and observe that tuples are immutable.
+6. Concatenate two tuples using the + operator.
+7. Repeat a tuple using the * operator.
+8. Count occurrences of an element using count().
+9. Find the index of an element using index().
+10. Check membership of an element using the in operator.
+11. Find minimum, maximum, and sum of tuple elements using min(), max(), sum().
+12. Convert a tuple to a list and back to a tuple using list() and tuple().
+13. Perform tuple unpacking by assigning tuple elements to multiple variables.
+14. Create a nested tuple and access its elements.
+15. Display the results after each operation.
+16. Stop.

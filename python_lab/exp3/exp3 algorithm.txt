@@ -1,0 +1,20 @@
+Experiment 3: Implement Various String Operations
+
+Algorithm:
+1. Start.
+2. Read or initialize a string.
+3. Find the length of the string using len().
+4. Access characters using indexing (positive and negative index).
+5. Extract substrings using slicing.
+6. Concatenate two strings using the + operator.
+7. Repeat a string using the * operator.
+8. Convert the string to uppercase using upper() and to lowercase using lower().
+9. Remove leading/trailing whitespaces using strip(), lstrip(), rstrip().
+10. Search for a substring using find(), index(), and count().
+11. Replace a substring using replace().
+12. Split the string into a list using split(), and join a list into a string using join().
+13. Check string properties using isalpha(), isdigit(), isalnum(), isspace().
+14. Format strings using format() or f-strings.
+15. Compare two strings using relational operators.
+16. Display the results of each operation.
+17. Stop.

@@ -1,0 +1,16 @@
+Experiment 10(b): Write a Program to Implement Various Types of Visualization in Python
+
+Algorithm:
+1. Start.
+2. Import the required libraries: pandas, matplotlib.pyplot, and seaborn.
+3. Load or create a dataset using pandas (e.g., using pd.read_csv() or a DataFrame from a dictionary).
+4. Create a line chart using plt.plot() to show trends over a continuous variable.
+5. Create a bar chart using plt.bar() or sns.barplot() to compare categorical data.
+6. Create a histogram using plt.hist() to show the frequency distribution of a numeric column.
+7. Create a scatter plot using plt.scatter() to show the relationship between two numeric variables.
+8. Create a box plot using plt.boxplot() or sns.boxplot() to show the spread and outliers in the data.
+9. Create a pie chart using plt.pie() to show proportions of categories.
+10. Create a heatmap using sns.heatmap() to visualize correlations between numeric columns.
+11. Add titles, axis labels, and legends to each visualization for clarity.
+12. Display all the visualizations using plt.show().
+13. Stop.

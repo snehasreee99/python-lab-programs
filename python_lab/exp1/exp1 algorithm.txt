@@ -1,0 +1,18 @@
+Experiment 1: Demonstrate Various Data Types and Operators in Python
+
+Algorithm:
+1. Start.
+2. Declare variables of different data types:
+   a. Integer (e.g., a = 10)
+   b. Float (e.g., b = 10.5)
+   c. String (e.g., c = "Python")
+   d. Boolean (e.g., d = True)
+   e. Complex (e.g., e = 2 + 3j)
+3. Display the value and type of each variable using type().
+4. Perform arithmetic operators (+, -, *, /, //, %, **) on numeric variables and display results.
+5. Perform relational/comparison operators (==, !=, >, <, >=, <=) on two values and display results.
+6. Perform logical operators (and, or, not) on boolean values and display results.
+7. Perform assignment operators (=, +=, -=, *=, /=) and display updated values.
+8. Perform bitwise operators (&, |, ^, ~, <<, >>) on integers and display results.
+9. Perform identity operators (is, is not) and membership operators (in, not in) and display results.
+10. Stop.

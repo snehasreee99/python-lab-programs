@@ -1,0 +1,20 @@
+Experiment 10(a): Write a Program to Load, Clean and Explore the Data Using Python
+
+Algorithm:
+1. Start.
+2. Import the pandas and numpy libraries.
+3. Load the dataset into a DataFrame using pd.read_csv() (or any suitable file-reading function).
+4. Explore the dataset's structure using head(), tail(), shape, info(), and describe().
+5. Check for missing values in the dataset using isnull().sum().
+6. Clean the data:
+   a. Handle missing values by filling them using fillna() or dropping them using dropna().
+   b. Remove duplicate records using drop_duplicates().
+   c. Correct data types of columns if required using astype().
+   d. Remove or treat outliers if necessary.
+7. Rename columns for clarity using rename(), if required.
+8. Perform exploratory analysis:
+   a. Compute summary statistics (mean, median, mode, standard deviation).
+   b. Group data using groupby() to find aggregated insights.
+   c. Sort data using sort_values() to identify top/bottom records.
+9. Display the cleaned and explored dataset.
+10. Stop.

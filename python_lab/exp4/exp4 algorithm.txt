@@ -1,0 +1,19 @@
+Experiment 4: Demonstrate List & Related Functions in Python
+
+Algorithm:
+1. Start.
+2. Create a list with a set of elements.
+3. Display the list and find its length using len().
+4. Access elements using indexing and slicing.
+5. Add elements to the list using append(), insert(), and extend().
+6. Remove elements from the list using remove(), pop(), and del.
+7. Modify elements by assigning new values at specific indices.
+8. Sort the list using sort() and reverse it using reverse().
+9. Find minimum, maximum, and sum of list elements using min(), max(), sum().
+10. Search for an element using index() and check membership using in.
+11. Count occurrences of an element using count().
+12. Copy a list using copy() and concatenate lists using +.
+13. Create a new list using list comprehension.
+14. Clear all elements using clear().
+15. Display the results after each operation.
+16. Stop.

@@ -1,0 +1,16 @@
+Experiment 8: Implement 're' Module in Python
+
+Algorithm:
+1. Start.
+2. Import the re module.
+3. Define a pattern (regular expression) and a sample string.
+4. Use re.match() to check if the pattern matches at the beginning of the string and display the result.
+5. Use re.search() to search for the pattern anywhere in the string and display the result.
+6. Use re.findall() to find all occurrences of the pattern in the string and display them as a list.
+7. Use re.finditer() to iterate over all matches and display their positions.
+8. Use re.sub() to replace occurrences of the pattern with a new substring.
+9. Use re.split() to split the string wherever the pattern occurs.
+10. Use re.compile() to compile a pattern into a regex object for repeated use.
+11. Use special sequences and metacharacters (\d, \w, \s, ^, $, *, +, ?, {}, [], |) to match digits, words, whitespace, or specific patterns such as email IDs or phone numbers.
+12. Display the results of each regex operation.
+13. Stop.

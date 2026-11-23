@@ -1,0 +1,15 @@
+Experiment 9(b): Write a Program to Implement Matplotlib and Pandas Libraries in Python
+
+Algorithm:
+1. Start.
+2. Import the pandas library as pd and the matplotlib.pyplot library as plt.
+3. Create a Pandas DataFrame using a dictionary of lists (e.g., columns for Name, Age, Marks).
+4. Display the DataFrame and inspect it using functions such as head(), info(), and describe().
+5. Extract the required columns from the DataFrame to be used as x-axis and y-axis data.
+6. Use plt.plot() to create a line chart of the extracted data.
+7. Use plt.bar() to create a bar chart of the extracted data.
+8. Use plt.scatter() to create a scatter plot of the extracted data.
+9. Use plt.pie() to create a pie chart of a chosen column's distribution.
+10. Add title, xlabel, ylabel, and legend to each chart using plt.title(), plt.xlabel(), plt.ylabel(), and plt.legend().
+11. Display each chart using plt.show().
+12. Stop.
